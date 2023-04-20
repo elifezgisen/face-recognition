@@ -1,5 +1,38 @@
 # Real-Time Face Recognition 
 
+<br/>
+<p align="center">
+  <a href="https://github.com/elifezgisen/face-recognition">
+    <img src="https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1195209545.jpg?fit=750%2C386&strip=all" alt="Logo" width="570" height="300">
+  </a>
+
+  <h3 align="center">Real-Time Face Recognition
+</h3>
+
+  <p align="center">
+    <a href="https://github.com/elifezgisen/face-recognition"><strong>Explore the docs »</strong></a>
+    <br/>
+    <br/>
+    <a href="https://github.com/elifezgisen/face-recognition">View Demo</a>
+    .
+    <a href="https://github.com/elifezgisen/face-recognition/issues">Report Bug</a>
+    .
+    <a href="https://github.com/elifezgisen/face-recognition/issues">Request Feature</a>
+  </p>
+</p>
+
+![Downloads](https://img.shields.io/github/downloads/elifezgisen/face-recognition/total) ![Contributors](https://img.shields.io/github/contributors/elifezgisen/face-recognition?color=dark-green) ![Issues](https://img.shields.io/github/issues/elifezgisen/face-recognition) ![License](https://img.shields.io/github/license/elifezgisen/face-recognition) 
+
+## Table Of Contents
+
+* [About the Project](#about-the-project)
+* [Technical Part](#technical-part)
+* [Test Part](#test-part)
+  * [Accuracy Rate Values](#accuracy-rate-values)
+  * [Confusion Matrix Results](#confusion-matrix-results)
+
+## About The Project
+
 Face Recognition is the process of identifying a person or persons using their physical or characteristic features. Facial features, which are one of the biometric features in the field of information security, such as palm shape, fingerprint, iris, retina and voice
 carried out using
 
